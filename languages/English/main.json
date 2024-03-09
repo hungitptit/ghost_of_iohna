@@ -1,3 +1,11 @@
 {
-    "Game.newGame": "New game"
+    "Game.newGame": "New game",
+    "Game.settings": "Settings",
+    "Game.quit": "Quit",
+    "Game.language": "Languages",
+    "Game.continue": "Continue",
+    "Game.toMainMenu": "Exit to main menu",
+    "Game.save": "Save",
+    "Game.load": "Load",
+    "Game.cancel": "Cancel"
 }
