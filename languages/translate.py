@@ -22,10 +22,10 @@ for row in game_sheet.iter_rows(values_only=True):
     english_data[game_sheet_name + '.' + key] = en
     vietnamese_data[game_sheet_name + '.' + key] = vi
 
-for row in game_sheet.iter_rows(values_only=True):
+for row in dialog_sheet.iter_rows(values_only=True):
     key, en, vi = row
-    english_data[game_sheet_name + '.' + key] = en
-    vietnamese_data[game_sheet_name + '.' + key] = vi
+    english_data[dialog_sheet_name + '.' + str(key)] = en
+    vietnamese_data[dialog_sheet_name + '.' + str(key)] = vi
 
 # Xuất ra file JSON tiếng Anh
 with open('English/main.json', 'w') as english_file:

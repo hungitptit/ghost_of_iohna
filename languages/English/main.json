@@ -7,5 +7,13 @@
     "Game.toMainMenu": "Exit to main menu",
     "Game.save": "Save",
     "Game.load": "Load",
-    "Game.cancel": "Cancel"
+    "Game.cancel": "Cancel",
+    "Game.tutorial1": "Use the <A, S, W, D> keys to move, and <Space> to interact with objects",
+    "Dialog.1": "Today, I was chosen to be the main performer in the music performance segment at the assembly hall festival. I'm sure my parents will be very happy to hear the news.",
+    "Dialog.2": "This is my favorite piano, placed right in the middle of the living room by my dad so that I can play in front of his guests. He's very proud of me",
+    "Dialog.3": "The reading room is not this way",
+    "Dialog.4": "Oh! My parents have already prepared a birthday party for me",
+    "Dialog.5": "But where are they? Maybe they're hiding somewhere to surprise me",
+    "Dialog.6": "I guess they're in the reading room",
+    "Dialog.7": "Mum, Dad, I...!"
 }

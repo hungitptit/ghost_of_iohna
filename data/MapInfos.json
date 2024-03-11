@@ -1,12 +1,14 @@
 [
 null,
-{"id":1,"expanded":true,"name":"inside_X06_cabin","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":604,"quick":true},
-{"id":2,"expanded":false,"name":"outside_X06_cabin","order":2,"parentId":0,"scrollX":1216.5,"scrollY":686.25,"quick":false},
+{"id":1,"expanded":true,"name":"inside_X06_cabin","order":1,"parentId":0,"scrollX":1216.5,"scrollY":686.25,"quick":true},
+{"id":2,"expanded":false,"name":"outside_X06_cabin","order":2,"parentId":0,"scrollX":816,"scrollY":624,"quick":false},
 {"id":3,"expanded":false,"name":"Hotel","order":3,"parentId":0,"scrollX":1228.5,"scrollY":897.75,"quick":false},
 {"id":4,"expanded":false,"name":"Bar","order":4,"parentId":0,"scrollX":1081.3333333333333,"scrollY":604,"quick":false},
-{"id":5,"expanded":false,"name":"Ionah City","order":5,"parentId":0,"scrollX":1081.3333333333333,"scrollY":604,"quick":false},
-{"id":6,"expanded":false,"name":"School","order":6,"parentId":0,"scrollX":1081.3333333333333,"scrollY":604,"quick":false},
+{"id":5,"expanded":false,"name":"Ionah City","order":5,"parentId":0,"scrollX":1216.5,"scrollY":674.25,"quick":false},
+{"id":6,"expanded":false,"name":"School","order":6,"parentId":0,"scrollX":1216.5,"scrollY":686.25,"quick":false},
 {"id":7,"expanded":false,"name":"X06 Room","order":9,"parentId":0,"scrollX":1216.5,"scrollY":686.25,"quick":false},
-{"id":8,"expanded":false,"name":"X06_Home_Living_room_nightmare","order":7,"parentId":0,"scrollX":1216.5,"scrollY":686.25,"quick":false},
-{"id":9,"expanded":false,"name":"X06_garden nightmare","order":8,"parentId":0,"scrollX":1228.5,"scrollY":782.25,"quick":false}
+{"id":8,"expanded":false,"name":"X06 Home nightmare 02","order":7,"parentId":0,"scrollX":1216.5,"scrollY":686.25,"quick":false},
+{"id":9,"expanded":false,"name":"X06 Home nightmare 01","order":8,"parentId":0,"scrollX":1216.5,"scrollY":849.75,"quick":false},
+{"id":10,"expanded":false,"name":"X06 Home nightmare 03","order":10,"parentId":0,"scrollX":1216.5,"scrollY":686.25,"quick":false},
+{"id":11,"expanded":false,"name":"X06 Home nightmare 04","order":11,"parentId":0,"scrollX":816,"scrollY":624,"quick":false}
 ]

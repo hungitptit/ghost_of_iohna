@@ -7,5 +7,13 @@
     "Game.toMainMenu": "Về màn hình chính",
     "Game.save": "Lưu",
     "Game.load": "Tải lại",
-    "Game.cancel": "Hủy"
+    "Game.cancel": "Hủy",
+    "Game.tutorial1": "Sử dụng phím < A, S, W, D > để di chuyển, < Space > để tương tác với đồ vật",
+    "Dialog.1": "Hôm nay, mình được chọn là người biểu diễn chính trong tiết mục trình diễn âm nhạc hôm lễ hội trường. Chắc bố mẹ sẽ rất vui khi biết tin",
+    "Dialog.2": "Đây là chiếc piano yêu thích của mình, bố đặt nó ngay giữa phòng khách để mình có thể chơi đàn trước những vị khách của bố. Ông ấy rất tự hào về mình",
+    "Dialog.3": "Phòng đọc sách không ở lối này",
+    "Dialog.4": "Ồ! Bố mẹ đã chuẩn bị sẵn tiệc sinh nhật cho mình",
+    "Dialog.5": "Nhưng hai người đâu rồi nhỉ, có lẽ họ đang trốn ở đâu đó để làm mình bất ngờ",
+    "Dialog.6": "Mình đoán họ đang ở trong phòng đọc sách",
+    "Dialog.7": "Bố mẹ ơi co...!"
 }
